@@ -148,6 +148,11 @@ Install it the same way as the extension via **Load unpacked** from the `neon-co
 - **What is NOT stored:** Browsing history, personal information, or any identifiable data
 - **Data location:** Your device only — nothing is ever transmitted or shared
 
+## Official Site
+
+This project is officially maintained by:
+[**7 brew menu**](https://7brewwmenu.com/)
+
 ---
 
 ## 📄 License

@@ -3,11 +3,11 @@
 > A lightweight cross-browser extension that calculates caffeine, calories, and energy levels for 7 Brew drinks. Pick your drink, size, and extra shots — get your numbers instantly.
 
 <p align="center">
-  <a href="CHROME_STORE_LINK_HERE">
+  <a href="https://chromewebstore.google.com/detail/7-brew-caffeine-calculato/nhgkbdedfmeijiephbkacjjfmdhhpdoa">
     <img src="https://img.shields.io/badge/Chrome-Add%20to%20Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Web Store" />
   </a>
   &nbsp;
-  <a href="FIREFOX_AMO_LINK_HERE">
+  <a href="https://addons.mozilla.org/en-US/firefox/addon/7-brew-caffeine-calculator/">
     <img src="https://img.shields.io/badge/Firefox-Add%20to%20Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Firefox Add-ons" />
   </a>
   &nbsp;
@@ -37,8 +37,8 @@
 
 | Browser | Link |
 |---|---|
-| Google Chrome | [Chrome Web Store →](CHROME_STORE_LINK_HERE) |
-| Mozilla Firefox | [Firefox Add-ons (AMO) →](FIREFOX_AMO_LINK_HERE) |
+| Google Chrome | [Chrome Web Store →](https://chromewebstore.google.com/detail/7-brew-caffeine-calculato/nhgkbdedfmeijiephbkacjjfmdhhpdoa) |
+| Mozilla Firefox | [Firefox Add-ons (AMO) →](https://addons.mozilla.org/en-US/firefox/addon/7-brew-caffeine-calculator/) |
 | Microsoft Edge | [Edge Add-ons →](EDGE_ADDON_LINK_HERE) |
 
 ---
